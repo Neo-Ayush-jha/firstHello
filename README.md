@@ -38,5 +38,4 @@ This is a simple "Hello World" application built using Node.js. It helps beginne
     node index.js
     
 ## Output
-    ```bash
     Hello, World
